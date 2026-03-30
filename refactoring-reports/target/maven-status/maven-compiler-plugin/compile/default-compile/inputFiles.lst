@@ -1,0 +1,15 @@
+/Users/dariyaissina/Desktop/30_march/refactoring-reports/src/main/java/reports/core/AbstractReportGenerator.java
+/Users/dariyaissina/Desktop/30_march/refactoring-reports/src/main/java/reports/core/BasePostProcessor.java
+/Users/dariyaissina/Desktop/30_march/refactoring-reports/src/main/java/reports/core/OutputFormatter.java
+/Users/dariyaissina/Desktop/30_march/refactoring-reports/src/main/java/reports/core/PostProcessor.java
+/Users/dariyaissina/Desktop/30_march/refactoring-reports/src/main/java/reports/core/ReportData.java
+/Users/dariyaissina/Desktop/30_march/refactoring-reports/src/main/java/reports/formatters/CsvFormatter.java
+/Users/dariyaissina/Desktop/30_march/refactoring-reports/src/main/java/reports/formatters/HtmlFormatter.java
+/Users/dariyaissina/Desktop/30_march/refactoring-reports/src/main/java/reports/formatters/TextFormatter.java
+/Users/dariyaissina/Desktop/30_march/refactoring-reports/src/main/java/reports/generators/Database.java
+/Users/dariyaissina/Desktop/30_march/refactoring-reports/src/main/java/reports/generators/InventoryReportGenerator.java
+/Users/dariyaissina/Desktop/30_march/refactoring-reports/src/main/java/reports/generators/SalesReportGenerator.java
+/Users/dariyaissina/Desktop/30_march/refactoring-reports/src/main/java/reports/generators/UserActivityReportGenerator.java
+/Users/dariyaissina/Desktop/30_march/refactoring-reports/src/main/java/reports/handlers/ArchiveHandler.java
+/Users/dariyaissina/Desktop/30_march/refactoring-reports/src/main/java/reports/handlers/EmailHandler.java
+/Users/dariyaissina/Desktop/30_march/refactoring-reports/src/main/java/reports/handlers/LoggingHandler.java
